@@ -1,89 +1,71 @@
-<h1 align="center">Привет, я Алексей 👋</h1>
+<h1 align="center">Привет! Я Алексей 👋</h1>
+<p align="center">
+  <i>QA Engineer • Automation Enthusiast • Mentor • TestOps Explorer</i>
+</p>
 
 <p align="center">
-  QA Engineer • Mentor • DevTools enjoyer • Automation in progress
+  <img src="https://komarev.com/ghpvc/?username=flatcross&label=Просмотров&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🧩 Обо мне
 
-- 🧪 Работаю QA-инженером более 4 лет
-- 🛠️ Тестирую API, UI, WebView, интеграции
-- 🎯 Настраиваю автотесты: Java + JUnit + Selenide + Allure + GitHub Actions
-- 📚 Менторю будущих тестировщиков и помогаю им выйти на рынок
+- 🧪 Более 4 лет в QA (ручное и автоматизированное тестирование)
+- 🖥️ Работаю с высоконагруженными B2B и API-системами
+- ⚙️ Преподаю тестирование и помогаю входить в IT
+- 🚀 Постоянно качаю стек, люблю CI/CD и чистые отчёты
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mober2000&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mober2000&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
 
 ## 🧰 Мой стек
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,maven,selenium,idea,postman,git,github,docker,junit,linux,py" />
+</p>
 
-⚙️ **Заменяешь всё под себя.**
-
----
-
-## 🎨 Шаг 3: Подключи GitHub Stats
-
-Добавь в README картинки, как выше:
-
-- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
-
-Они автоматически подгружаются как картинки по ссылке. Просто подставь своё имя пользователя.
-
----
-
-## 🌟 Шаг 4: Укрась – опционально
-
-Можно добавить:
-
-- Ачивки (`github-profile-trophy`)
-- Карты контрибьюшенов (`github-profile-summary-cards`)
-- QR-код на своё резюме или телеграм
-- Gif или мем внизу профиля
+| Категория       | Инструменты                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| 🧪 Тестирование   | JUnit 5, AssertJ, Selenide, RestAssured, Allure, TestNG                    |
+| 🌐 API и Web     | Postman, Swagger, Charles, DevTools, WebDriverManager                      |
+| 🐳 CI/CD и DevOps | GitHub Actions, Jenkins, Selenoid, Docker, TestContainers                  |
+| 📊 Наблюдаемость | Kibana, Grafana, Metabase, Allure, лог-анализ                              |
+| 🧾 Документация  | Jira, TestRail, Confluence, TestIT                                          |
+| 💬 Коммуникация  | Telegram, Discord, Figma, Miro                                              |
 
 ---
 
-## 🧠 Шаг 5: Сделай pinned репозитории
+## 📈 GitHub Статистика
 
-В профиле можно закрепить 6 репозиториев — выбери самые сочные:
-
-- учебный проект с автотестами
-- pet-проекты
-- демо-репка с CI/CD и Allure
-- что-то необычное (например, генератор резюме или чек-лист по тестированию)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flatcross&show_icons=true&theme=tokyonight&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=flatcross&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flatcross&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-Если хочешь, я могу:
-- адаптировать шаблон под твой стек и стиль
-- сгенерировать полностью готовый README
-- собрать тебе ещё GitHub Actions конфиги
-- или сделать профиль с приколом — с графикой и "вау"-эффектом
+## 🧠 Последние проекты
 
-Просто скажи, как именно ты хочешь: **строгий деловой / неформальный айтишный / с приколом / демонстрация проектов / что-то ещё.**
+| 🔍 Название | 💬 Описание | 🚀 Стек |
+|------------|-------------|---------|
+| `api-test-framework` | Фреймворк на Java для REST API с Allure и CI | `Java`, `RestAssured`, `JUnit`, `Allure`, `GitHub Actions` |
+| `web-ui-tests` | Автотесты интерфейса интернет-магазина | `Selenide`, `PageObject`, `Allure`, `Docker` |
+| `qa-resume-helper` | Telegram-бот для генерации резюме QA | `Python`, `Aiogram`, `OpenAI`, `Heroku` |
 
+---
 
-```yaml
-Языки:
-  - Java
-  - SQL
+## ✍️ Как со мной связаться
 
-Инструменты:
-  - Selenide / RestAssured / JUnit 5 / AssertJ / Allure
-  - Postman / Swagger / Charles / Kibana / Metabase
-  - GitHub Actions / Jenkins / Docker / Selenoid
+- 📫 Telegram: [@alexqa_test](https://t.me/alexqa_test)
+- 📬 Email: alex.qa@example.com
+- 📄 [Моё резюме (hh.ru)](https://hh.ru/resume/your_link)
 
-Документация:
-  - TestRail / Jira / Confluence / TestIT
+---
 
-
-
-
+<p align="center">
+  <i>Спасибо, что заглянул(а) 🙌</i><br/>
+  <i>Если понравилось — ставь ⭐️ в репах и пиши в ТГ</i>
+</p>
